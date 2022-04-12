@@ -18,9 +18,9 @@ This project was developed with the following technologies:
 
 ## 🚀 How to run it:
 
-<p>Clone the project, then in the project directory, after install the dependencies with `npm i` or ` yarn` and reate a .env file 
-with the secrete MONGO_URI=YourMongoDBKey, you can run:
+<p>Clone the project, then in the project directory, after install the dependencies with `npm i` or ` yarn` and reate a .env file with the secrete MONGO_URI=YourMongoDBKey, you can run:
 </p>
+
 ### `npm start`
 or 
 ### `yarn start`
